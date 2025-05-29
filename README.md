@@ -4,7 +4,7 @@
 
 Me chamo Rodrigo Gabriel, tenho 19 anos e sou de Fortaleza-CE, Brasil. Concluí o ensino médio no <a href="https://www.instagram.com/colegioqueirozbelem/">Colégio Queiroz Belém</a>, com experiência em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Uninassau Doroteias, participando da Liga De Arduino Uninassau Fortaleza (LAUF). Sou apaixonado por tecnologia e compartilho meu conhecimento através das minhas redes.
 <br/>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers](https://github.com/Rodrigo-Gabriel">
     <br/>
         <img 
             alt="Total de estrelas" 
@@ -12,7 +12,7 @@ Me chamo Rodrigo Gabriel, tenho 19 anos e sou de Fortaleza-CE, Brasil. Concluí 
             src="https://custom-icon-badges.demolab.com/github/stars/Rodrigo-Gabriel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="[https://github.com/Larissakich?tab=followers](https://github.com/Rodrigo-Gabriel)">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
