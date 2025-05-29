@@ -139,7 +139,7 @@ Me chamo Rodrigo Gabriel, tenho 19 anos e sou natural de Fortaleza-CE. Concluí 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Gabriel&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Gabriel&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
