@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rodrigo Gabriel, tenho 19 anos e sou de Fortaleza-CE, Brasil. Concluí o ensino médio no <a href="https://www.instagram.com/colegioqueirozbelem/">Colégio Queiroz Belém</a>, com experiência em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau Doroteias, participando da Liga De Arduino Uninassau Fortaleza (LAUF). Sou apaixonadp por tecnologia e compartilho meu conhecimento através das minhas redes.
+Me chamo Rodrigo Gabriel, tenho 19 anos e sou de Fortaleza-CE, Brasil. Concluí o ensino médio no <a href="https://www.instagram.com/colegioqueirozbelem/">Colégio Queiroz Belém</a>, com experiência em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Uninassau Doroteias, participando da Liga De Arduino Uninassau Fortaleza (LAUF). Sou apaixonadp por tecnologia e compartilho meu conhecimento através das minhas redes.
 <br/>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
     <br/>
