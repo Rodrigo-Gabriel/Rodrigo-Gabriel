@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rodrigo Gabriel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Rodrigo Gabriel, tenho 19 anos e sou natural de Fortaleza-CE. Concluí o ensino médio no Colégio, com experiência em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau Doroteias, participando da Liga De Arduino Uninassau Fortaleza (LAUF). Sou apaixonadp por tecnologia e compartilho meu conhecimento através das minhas redes.
 <br/>
